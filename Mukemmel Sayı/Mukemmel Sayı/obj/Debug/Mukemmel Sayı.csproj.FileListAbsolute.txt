@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\bin\Debug\Mukemmel Sayı.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\bin\Debug\Mukemmel Sayı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\bin\Debug\Mukemmel Sayı.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\obj\Debug\Mukemmel Sayı.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\obj\Debug\Mukemmel Sayı.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\obj\Debug\Mukemmel Sayı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Mukemmel Sayı\Mukemmel Sayı\obj\Debug\Mukemmel Sayı.pdb
