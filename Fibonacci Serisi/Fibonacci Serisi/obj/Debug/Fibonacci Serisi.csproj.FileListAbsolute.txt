@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\bin\Debug\Fibonacci Serisi.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\bin\Debug\Fibonacci Serisi.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\bin\Debug\Fibonacci Serisi.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\obj\Debug\Fibonacci Serisi.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\obj\Debug\Fibonacci Serisi.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\obj\Debug\Fibonacci Serisi.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Fibonacci Serisi\Fibonacci Serisi\obj\Debug\Fibonacci Serisi.pdb
