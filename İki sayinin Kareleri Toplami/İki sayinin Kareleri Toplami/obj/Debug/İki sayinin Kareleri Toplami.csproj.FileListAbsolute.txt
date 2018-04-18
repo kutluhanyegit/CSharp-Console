@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\bin\Debug\İki sayinin Kareleri Toplami.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\bin\Debug\İki sayinin Kareleri Toplami.exe
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\bin\Debug\İki sayinin Kareleri Toplami.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\obj\Debug\İki sayinin Kareleri Toplami.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\obj\Debug\İki sayinin Kareleri Toplami.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\obj\Debug\İki sayinin Kareleri Toplami.exe
+C:\Users\BOX\Desktop\Visual Studio Console\İki sayinin Kareleri Toplami\İki sayinin Kareleri Toplami\obj\Debug\İki sayinin Kareleri Toplami.pdb
