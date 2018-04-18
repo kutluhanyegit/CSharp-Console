@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\bin\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\bin\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\bin\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\obj\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\obj\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\obj\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Bölme İşlemini Çıkarma ileBulma\PozSayılarda Bölme İşlemini Çıkarma ileBulma\obj\Debug\PozSayılarda Bölme İşlemini Çıkarma ileBulma.pdb
