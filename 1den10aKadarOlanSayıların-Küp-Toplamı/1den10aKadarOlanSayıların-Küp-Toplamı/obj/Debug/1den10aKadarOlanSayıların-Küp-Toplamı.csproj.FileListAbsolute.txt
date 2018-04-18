@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\bin\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\bin\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\bin\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\obj\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\obj\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\obj\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\1den10aKadarOlanSayıların-Küp-Toplamı\1den10aKadarOlanSayıların-Küp-Toplamı\obj\Debug\1den10aKadarOlanSayıların-Küp-Toplamı.pdb
