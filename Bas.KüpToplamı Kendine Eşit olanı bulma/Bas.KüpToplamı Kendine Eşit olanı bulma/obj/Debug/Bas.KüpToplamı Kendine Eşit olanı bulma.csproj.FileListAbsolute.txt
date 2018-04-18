@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\bin\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\bin\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\bin\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\obj\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\obj\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\obj\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Bas.KüpToplamı Kendine Eşit olanı bulma\Bas.KüpToplamı Kendine Eşit olanı bulma\obj\Debug\Bas.KüpToplamı Kendine Eşit olanı bulma.pdb
