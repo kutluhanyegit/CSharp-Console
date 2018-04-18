@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\bin\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\bin\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\bin\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\obj\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\obj\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\obj\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\PozSayılarda Çarpmaİşlemini Toplama ileBulma\PozSayılarda Çarpmaİşlemini Toplama ileBulma\obj\Debug\PozSayılarda Çarpmaİşlemini Toplama ileBulma.pdb
