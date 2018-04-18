@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-100 Arasindaki Ç.Sayıların Top Mükemmel mi", "1-100 Arasindaki Ç.Sayıların Top Mükemmel mi\1-100 Arasindaki Ç.Sayıların Top Mükemmel mi.csproj", "{53FEB76A-6A16-479E-B038-93F5657FBEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FEB76A-6A16-479E-B038-93F5657FBEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FEB76A-6A16-479E-B038-93F5657FBEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FEB76A-6A16-479E-B038-93F5657FBEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FEB76A-6A16-479E-B038-93F5657FBEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B28B8F80-8569-47E6-9CA4-A26600C028BB}
+	EndGlobalSection
+EndGlobal
