@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\bin\Debug\Girilen Sayının 5in Kuvveti mi Bulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\bin\Debug\Girilen Sayının 5in Kuvveti mi Bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\bin\Debug\Girilen Sayının 5in Kuvveti mi Bulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\obj\Debug\Girilen Sayının 5in Kuvveti mi Bulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\obj\Debug\Girilen Sayının 5in Kuvveti mi Bulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\obj\Debug\Girilen Sayının 5in Kuvveti mi Bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının 5in Kuvveti mi Bulma\Girilen Sayının 5in Kuvveti mi Bulma\obj\Debug\Girilen Sayının 5in Kuvveti mi Bulma.pdb
