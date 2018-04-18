@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\bin\Debug\1-500Arasında ki Tam Sayıların Toplamı.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\bin\Debug\1-500Arasında ki Tam Sayıların Toplamı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\bin\Debug\1-500Arasında ki Tam Sayıların Toplamı.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\obj\Debug\1-500Arasında ki Tam Sayıların Toplamı.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\obj\Debug\1-500Arasında ki Tam Sayıların Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\obj\Debug\1-500Arasında ki Tam Sayıların Toplamı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\1-500Arasında ki Tam Sayıların Toplamı\1-500Arasında ki Tam Sayıların Toplamı\obj\Debug\1-500Arasında ki Tam Sayıların Toplamı.pdb
