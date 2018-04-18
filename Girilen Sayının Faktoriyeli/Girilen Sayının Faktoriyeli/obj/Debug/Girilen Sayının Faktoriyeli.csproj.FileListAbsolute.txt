@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\bin\Debug\Girilen Sayının Faktoriyeli.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\bin\Debug\Girilen Sayının Faktoriyeli.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\bin\Debug\Girilen Sayının Faktoriyeli.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\obj\Debug\Girilen Sayının Faktoriyeli.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\obj\Debug\Girilen Sayının Faktoriyeli.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\obj\Debug\Girilen Sayının Faktoriyeli.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının Faktoriyeli\Girilen Sayının Faktoriyeli\obj\Debug\Girilen Sayının Faktoriyeli.pdb
