@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\bin\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\bin\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\bin\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\obj\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\obj\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\obj\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Doğum Tarihi Girilen Kişinin Yaşını Bulma\Doğum Tarihi Girilen Kişinin Yaşını Bulma\obj\Debug\Doğum Tarihi Girilen Kişinin Yaşını Bulma.pdb
