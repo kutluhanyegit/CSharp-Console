@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\bin\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\bin\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\bin\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\obj\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\obj\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\obj\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\10ile1000 Arasında ki Tam Kare SayılarıBulma\10ile1000 Arasında ki Tam Kare SayılarıBulma\obj\Debug\10ile1000 Arasında ki Tam Kare SayılarıBulma.pdb
