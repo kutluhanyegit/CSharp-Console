@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\bin\Debug\Güçlü Sayı.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\bin\Debug\Güçlü Sayı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\bin\Debug\Güçlü Sayı.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\obj\Debug\Güçlü Sayı.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\obj\Debug\Güçlü Sayı.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\obj\Debug\Güçlü Sayı.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Güçlü Sayı\Güçlü Sayı\obj\Debug\Güçlü Sayı.pdb
