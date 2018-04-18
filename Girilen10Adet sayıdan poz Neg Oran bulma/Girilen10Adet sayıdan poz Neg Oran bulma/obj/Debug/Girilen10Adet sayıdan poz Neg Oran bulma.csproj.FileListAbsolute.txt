@@ -1,0 +1,7 @@
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\bin\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.exe.config
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\bin\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.exe
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\bin\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.pdb
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\obj\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\obj\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\obj\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.exe
+C:\Users\BOX\source\repos\Girilen10Adet sayıdan poz Neg Oran bulma\Girilen10Adet sayıdan poz Neg Oran bulma\obj\Debug\Girilen10Adet sayıdan poz Neg Oran bulma.pdb
