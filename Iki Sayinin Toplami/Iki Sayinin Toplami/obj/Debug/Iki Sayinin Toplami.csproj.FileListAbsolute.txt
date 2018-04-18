@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\Iki Sayinin Toplami.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\Iki Sayinin Toplami.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\bin\Debug\Iki Sayinin Toplami.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\Iki Sayinin Toplami.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\Iki Sayinin Toplami.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\Iki Sayinin Toplami.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Iki Sayinin Toplami\Iki Sayinin Toplami\obj\Debug\Iki Sayinin Toplami.pdb
