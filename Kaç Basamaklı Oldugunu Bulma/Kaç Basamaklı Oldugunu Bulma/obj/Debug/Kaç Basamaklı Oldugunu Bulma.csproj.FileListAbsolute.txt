@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\bin\Debug\Kaç Basamaklı Oldugunu Bulma.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\bin\Debug\Kaç Basamaklı Oldugunu Bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\bin\Debug\Kaç Basamaklı Oldugunu Bulma.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\obj\Debug\Kaç Basamaklı Oldugunu Bulma.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\obj\Debug\Kaç Basamaklı Oldugunu Bulma.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\obj\Debug\Kaç Basamaklı Oldugunu Bulma.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Kaç Basamaklı Oldugunu Bulma\Kaç Basamaklı Oldugunu Bulma\obj\Debug\Kaç Basamaklı Oldugunu Bulma.pdb
