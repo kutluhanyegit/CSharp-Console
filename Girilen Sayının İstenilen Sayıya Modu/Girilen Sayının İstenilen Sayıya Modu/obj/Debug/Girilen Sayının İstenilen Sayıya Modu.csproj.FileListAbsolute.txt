@@ -1,0 +1,7 @@
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\bin\Debug\Girilen Sayının İstenilen Sayıya Modu.exe.config
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\bin\Debug\Girilen Sayının İstenilen Sayıya Modu.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\bin\Debug\Girilen Sayının İstenilen Sayıya Modu.pdb
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\obj\Debug\Girilen Sayının İstenilen Sayıya Modu.csprojResolveAssemblyReference.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\obj\Debug\Girilen Sayının İstenilen Sayıya Modu.csproj.CoreCompileInputs.cache
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\obj\Debug\Girilen Sayının İstenilen Sayıya Modu.exe
+C:\Users\BOX\Desktop\Visual Studio Console\Girilen Sayının İstenilen Sayıya Modu\Girilen Sayının İstenilen Sayıya Modu\obj\Debug\Girilen Sayının İstenilen Sayıya Modu.pdb
